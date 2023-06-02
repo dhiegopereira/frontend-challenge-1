@@ -1,6 +1,4 @@
-# Desafio estagiário: HTML/CSS/JS
-
-> **ATENÇÃO:** Antes de começar, se [cadastre na vaga](https://chaordic.recruiterbox.com/jobs/fk0hzkv/) via Recruiterbox **=]**
+# Desafio Front-end
 
 O desafio proposto consiste numa **landing page** simulando um encurtador de links, onde testará as habilidades e qualidade de código de um desenvolvedor front-end ao transformar um layout em um protótipo funcional. 
 
@@ -37,6 +35,6 @@ O desafio proposto consiste numa **landing page** simulando um encurtador de lin
 
 ---
 
-Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/frontend-intern-challenge/issues).
+Em caso de dúvidas, [abra uma issue](https://github.com/dhiegopereira/frontend-challenge-1/issues).
 
 **Boa sorte =]**
